@@ -2,8 +2,9 @@
 
 ## Before Using...
 Need to install firebase and Bulma
+
 Need to modify firebaseConfig settings on src/firebase/config.js
- 
+
 ## Project setup
 ```
 yarn install

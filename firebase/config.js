@@ -1,6 +1,5 @@
 // firebaseをimport ①/5
 import firebase from 'firebase/app'
-import 'firebase/firestore'
 import 'firebase/auth'
 
 
